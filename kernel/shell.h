@@ -2,6 +2,6 @@
 #define SHELL_H
 
 void shell_prompt(void);
-void shell_submit(const char *line);
+void shell_submit(char *line);
 
 #endif

@@ -14,4 +14,5 @@ typedef signed long long   i64;
 typedef unsigned long long usize;
 typedef signed long long   isize;
 
+#define NULL ((void *)0)
 #endif
